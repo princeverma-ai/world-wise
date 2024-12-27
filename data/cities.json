@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "id": "3bc8",
+      "cityName": "Calanques National Park",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-12-02T10:41:42.504Z",
+      "notes": "",
+      "position": {
+        "lat": "43.13306116240615",
+        "lng": "5.344771960593207"
+      }
+    },
+    {
+      "id": "8b15",
+      "cityName": "Delhi",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-12-02T10:51:03.154Z",
+      "notes": "",
+      "position": {
+        "lat": "28.5941685062326",
+        "lng": "77.17620849609376"
+      }
+    }
+  ]
+}
